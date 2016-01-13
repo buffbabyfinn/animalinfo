@@ -1,0 +1,7 @@
+.giraffe-info, .zebra-info, .lion-info {
+  display: none;
+}
+
+.jumbotron {
+  text-align: center;
+}
